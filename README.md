@@ -1,5 +1,11 @@
 # Hybrid CNN + QNN Audio Classifier
+## Included Artifacts
 
+- `confusion_matrix.png`  
+  Confusion matrix generated during evaluation
+
+
+  ---
 This repository contains a Google Colab notebook for experimenting with a
 **hybrid classical–quantum audio classification model** trained on the
 **UrbanSound8K** dataset.
@@ -60,12 +66,7 @@ Training produces the following model files:
 
 > Model weights are not necessarily included in this repository.
 
----
 
-## Included Artifacts
-
-- `confusion_matrix.png`  
-  Confusion matrix generated during evaluation
 
 ---
 
