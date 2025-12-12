@@ -1,0 +1,21 @@
+
+Hybrid CNN + QNN Audio Classifier
+=================================
+
+Models saved:
+ - final_hybrid_cnn_qnn_model.pth  (Main model)
+ - hybrid_cnn_qnn_best.pth         (Best checkpoint during training)
+ - *_ckpt.pth                      (Intermediate checkpoints)
+
+Dataset:
+ - UrbanSound8K
+
+Model details:
+ - Backbone: AudioCNNBackboneBig (256-d embedding)
+ - Quantum layer: 8 qubits, 2 layers
+ - Combination: alpha=1.0, beta=0.5
+ - Training device: cuda
+
+Included files:
+ - final_training_history.csv
+ - confusion_matrix.png
