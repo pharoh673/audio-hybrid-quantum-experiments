@@ -8,9 +8,13 @@ The project focuses on **model architecture, training behavior, checkpointing,
 and analysis**, and is mainly intended for **personal experimentation and reference**.
 
 ---
-
 ## Gradio Demo Interface
-![Gradio Audio Classification Demo](gradio_demo.png)
+
+![Gradio Audio Classification Demo](gradio_demo.jpg)
+
+This interface allows users to upload or record a 4-second audio clip and
+receive the top predicted UrbanSound classes with confidence scores.
+
 
 ## Confusion Matrix
 
