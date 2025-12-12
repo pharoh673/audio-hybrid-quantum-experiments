@@ -1,8 +1,8 @@
 # Hybrid CNN + QNN Audio Classifier
 
-## Included Artifacts
-- `confusion_matrix.png`  
-  Confusion matrix generated during evaluation
+## Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
 
 
   ---
