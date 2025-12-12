@@ -1,10 +1,4 @@
 # Hybrid CNN + QNN Audio Classifier
-
-## Confusion Matrix
-
-![Confusion Matrix](confusion_matrix.png)
-
-
   ---
 This repository contains a Google Colab notebook for experimenting with a
 **hybrid classical–quantum audio classification model** trained on the
@@ -14,6 +8,15 @@ The project focuses on **model architecture, training behavior, checkpointing,
 and analysis**, and is mainly intended for **personal experimentation and reference**.
 
 ---
+
+## Gradio Demo Interface
+
+![Gradio Audio Classification Demo](gradio_demo.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
 
 ## Dataset
 
