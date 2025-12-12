@@ -10,7 +10,6 @@ and analysis**, and is mainly intended for **personal experimentation and refere
 ---
 
 ## Gradio Demo Interface
-
 ![Gradio Audio Classification Demo](gradio_demo.png)
 
 ## Confusion Matrix
